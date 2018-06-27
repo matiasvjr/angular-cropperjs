@@ -1,6 +1,6 @@
 import { Component, EventEmitter, Input, NgModule, Output, ViewChild, ViewEncapsulation } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import * as Cropper from 'cropperjs/dist/cropper';
+import * as Cropper from '2mundos-fengyuanchen-cropperjs/dist/cropper';
 
 var AngularCropperjsComponent = (function () {
     function AngularCropperjsComponent() {

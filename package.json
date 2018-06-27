@@ -1,7 +1,7 @@
 {
-  "name": "angular-cropperjs",
+  "name": "2mundos-angular-cropperjs",
   "description": "CropperJS integration for Angular 2/4",
-  "version": "0.1.5",
+  "version": "0.1.5-2m.0.0",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -75,6 +75,6 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "cropperjs": "^1.0.0"
+    "2mundos-fengyuanchen-cropperjs": "^1.2.2-2m.0.0"
   }
 }
